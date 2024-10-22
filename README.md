@@ -3,7 +3,7 @@
 # 📊 Career Aspirations of Gen Z: Data Analysis Project
 
 ## 🎓 Project Overview
-This project was created during my internship at **KultureHire** to explore the career aspirations, values, and preferences of Generation Z. Using a comprehensive dataset, I analyzed various business questions and built **3 Functional Dashboards** to visualize key insights into Gen Z's career-related choices.
+This project was created during my internship at [**KultureHire.com**](https://www.kulturehire.com/) to explore the career aspirations, values, and preferences of Generation Z. Using a comprehensive dataset, I analyzed various business questions and built **3 Functional Dashboards** to visualize key insights into Gen Z's career-related choices.
 
 The main focus was to answer questions about:
 - Learning aspirations
@@ -69,3 +69,19 @@ A big thank you to **KultureHire** for providing this opportunity to explore and
 
 ## 🏷️ Hashtags for this project
 #SQL #DataAnalysis #GenZ #CareerAspirations #DashboardDesign #KultureHire #Internship #LearningAspirants #ManagerAspirants #MissionAspirants #WorkLife #CareerGoals #Tech #MySQL #SQLite
+
+---
+
+## 📚 About the Project
+
+This dashboard was developed as part of my internship project at [**KultureHire.com**](https://www.kulturehire.com/). It provides actionable insights for **HR Managers**, **educators**, **employers**, and **policymakers** looking to better understand and meet the career expectations of Gen Z. 
+
+
+## 📧 Contact
+
+For questions or collaboration, feel free to reach out to me on [Umesh Kumar](https://www.linkedin.com/in/u11kumar) or contact me via email at [u11kumar@gmail.com].
+
+---
+
+**Thank you for checking out my project!** 👏
+
