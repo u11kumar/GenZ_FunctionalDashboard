@@ -20,6 +20,9 @@ These insights are critical for businesses and HR managers aiming to attract, re
 - **Company Mission Alignment:** 76.22% prioritize working for companies with missions that align with their values.
 - **Top Influences:** Parents and World Leaders were the most influential in shaping career choices.
 
+![Learning Aspirants Dashboard](https://github.com/user-attachments/assets/2766d7dd-d70b-4f77-90da-9b874b9f2d3f)
+
+
 ### 2️⃣ **Manager Aspirants Dashboard**
 - **Rejection of Abusive Management:** 83% of respondents are unwilling to work for an abusive manager.
 - **Work Environment Preferences:** 46% prefer hybrid work, 33% prefer remote work, and 21% prefer in-office work.
@@ -27,11 +30,19 @@ These insights are critical for businesses and HR managers aiming to attract, re
 - **Salary Expectations (First 3 Years):** ₹31,000 - ₹50,000 is the minimum salary expected in the first 3 years.
 - **Salary Expectations (After 5 Years):** ₹71,000 - ₹110,000 minimum salary after 5 years.
 
+
+![Manager Aspirants Dashboard](https://github.com/user-attachments/assets/02ebe363-6660-42fe-998c-97a922fe68fe)
+
+
 ### 3️⃣ **Mission Aspirants Dashboard**
 - **Mission Clarity:** 72% of respondents prefer not to work for companies with unclear missions.
 - **Mission Alignment:** 76% disapprove of working for companies that don’t align actions with their stated mission.
 - **Managerial Support:** 2,240 respondents value clear expectations and goal-setting from managers.
 - **Social Impact:** 48.31% are interested in working for socially impactful companies.
+
+
+
+![Mission Aspirants Dashboard](https://github.com/user-attachments/assets/48d54042-18c4-4e88-89ed-e0c7b176a356)
 
 
 
